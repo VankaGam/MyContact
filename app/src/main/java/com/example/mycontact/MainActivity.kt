@@ -66,7 +66,7 @@ private fun NotFavoriteWithPhotoPreview() {
                 imageRes = R.drawable.lastocka_photo,
                 isFavorite = false,
                 phone = "---",
-                address = "Ивановская область, дер. Крутово, д. 4", //k
+                address = "Ивановская область, дер. Крутово, д. 4", //kiy
                 email = null
             ),
             modifier = Modifier.fillMaxSize()
